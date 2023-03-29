@@ -28,7 +28,7 @@ public class Ej1 {
         
         //Se imprime el mensaje final,al usar (num1+num2) entre parentesis la suma se realiza sin requerir otra variable
         System.out.println("La suma de " + num1 + " y " + num2 + " da un total de = " + (num1+num2));
-        
+        //Esto deberia salir en el pull
     }
     
 }
