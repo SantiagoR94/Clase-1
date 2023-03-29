@@ -8,10 +8,6 @@ import java.util.Scanner;
 import static jdk.nashorn.internal.objects.NativeString.toLowerCase;
 import static jdk.nashorn.internal.objects.NativeString.toUpperCase;
 
-/**
- *
- * @author Santiago
- */
 public class Ej3 {
     
         public static void main(String[] args) {
@@ -23,6 +19,6 @@ public class Ej3 {
             
             System.out.println(toLowerCase(frase));
             System.out.println(toUpperCase(frase));
-            
+           
         }
 }
